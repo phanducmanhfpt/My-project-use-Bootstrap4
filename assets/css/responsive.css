@@ -1,0 +1,11 @@
+@media(max-width :1024px){
+    .slider-content-white-hidden {
+        font-size:25px;
+    }
+    .slider-content-white {
+        font-size: 15px;
+    }
+    .slider-content-btn {
+        font-size:15px;
+    }
+}
